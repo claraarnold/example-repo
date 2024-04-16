@@ -1,24 +1,12 @@
----
-layout: default
----
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Healthy Idaho</title>
-</head>
-<body>
-    <h1>Members</h1>
-    <ul>
-        <li>Clara Arnold</li>
-        <li>Anothony Diep</li>
-        <li>Joshua Corrales</li>
-        <li>Braeden Lacombe</li>
-    </ul>
+# Healthy Idaho
 
-    <h1>Project Abstract</h1>
-    <div>
+## Members:
+- Clara Arnold
+- Anothony Diep
+- Joshua Corrales
+- Braeden Lacombe
+
+## Project Abstract: 
         The impact of climate change in the Western US, particularly in Idaho, calls for the need of a portal 
         where residents can easily get information on climate-related health issues near them. Understanding climate 
         health effects involves a portal where residents can see the nature and duration of climate extremes, 
@@ -32,11 +20,6 @@ layout: default
         information. The portal will have a map segmented based on Idaho’s census tracts which makes it easy for users to see the 
         climate-related health information near them. By providing Idahoans with region-specific climate resources, the portal 
         facilitates informed decision making to understand and act on health risks. 
-    </div>
 
-    <h1>Project Description</h1>
-    <div>
+## Project Description:
         Blah blah
-    </div>
-</body>
-</html>
